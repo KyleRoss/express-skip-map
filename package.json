@@ -1,0 +1,29 @@
+{
+  "name": "skip-map",
+  "version": "1.0.0",
+  "description": "Middleware for Express 3.x/4.x to skip .map files to prevent 404 errors",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KyleRoss/express-skip-map.git"
+  },
+  "keywords": [
+    "skip",
+    "map",
+    "files",
+    "express",
+    "middleware",
+    ".map",
+    "js",
+    "css",
+    "ignore",
+    "mapfile",
+    "sourcemap"
+  ],
+  "author": "Kyle Ross",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KyleRoss/express-skip-map/issues"
+  },
+  "homepage": "https://github.com/KyleRoss/express-skip-map"
+}
